@@ -15,6 +15,7 @@ In this bird game, a random population of birds is spawned, each with random 'br
 The Bird class houses the characteristics of each bird, namely, location, speed, acceleration and brain.
 
 Add and splice pipes in UI:
+      
       Pipes.push(new pipe());
 
 Derive fitness of each bird:
