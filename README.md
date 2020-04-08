@@ -1,5 +1,15 @@
-# NEAT
+# NeuroEvolution of Augmenting Topologies
 NEAT algorithm in p5.js
+
+Run the Flappy bird demo in your browser! [Flappy GA](https://raw.githack.com/MasterSkepticista/NEAT/master/index.html) :bird:
+
+Use the slider to speed up the learning. Birds will have a time-lapse.
+
+Bonus point: If the simulation doesn't freeze when slider is pulled high, you have a good PC.
+
+If not, buy a new one. :neutral_face:
+
+### Code
 
 Sketch begins in game.js, contrary to nomenclature.
 
