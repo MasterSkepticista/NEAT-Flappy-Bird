@@ -1,7 +1,7 @@
 # NeuroEvolution of Augmenting Topologies
 NEAT algorithm in p5.js
 
-Run the Flappy bird demo in your browser! [Flappy GA](https://raw.githack.com/MasterSkepticista/NEAT/master/index.html) :bird:
+Run the Flappy bird demo in your browser! [Flappy GA](https://raw.githack.com/MasterSkepticista/NEAT-Flappy-Bird/master/index.html) :bird:
 
 Use the slider to speed up the learning. Birds will have a time-lapse.
 
